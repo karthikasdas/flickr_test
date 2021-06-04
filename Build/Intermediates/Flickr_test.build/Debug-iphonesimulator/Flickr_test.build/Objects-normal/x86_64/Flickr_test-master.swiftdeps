@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "0abea92673ee69b2dd549d1ba8692cc8"
+build_time: [1622811069, 536287000]
+inputs:
+  "/Users/karthika/Documents/Flickr_test/Flickr_test/ViewController.swift": [1622811040, 304975099]
+  "/Users/karthika/Documents/Flickr_test/Flickr_test/AppDelegate.swift": [1622810607, 232230380]
+  "/Users/karthika/Documents/Flickr_test/Flickr_test/SceneDelegate.swift": [1622810607, 245159814]

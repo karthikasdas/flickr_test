@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+Flickr_test in Flickr_test
+Flickr_testTests in Flickr_test, depends on:
+Flickr_test in Flickr_test (explicit)
+Flickr_testUITests in Flickr_test, depends on:
+Flickr_test in Flickr_test (explicit)
